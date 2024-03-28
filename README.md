@@ -4,6 +4,7 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+      </ul>
       <a href="#getting-started">Getting Started</a>
       </ul>
     </li>
